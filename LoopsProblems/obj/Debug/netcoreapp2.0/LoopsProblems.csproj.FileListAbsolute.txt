@@ -1,0 +1,11 @@
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\bin\Debug\netcoreapp2.0\LoopsProblems.deps.json
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\bin\Debug\netcoreapp2.0\LoopsProblems.runtimeconfig.json
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\bin\Debug\netcoreapp2.0\LoopsProblems.runtimeconfig.dev.json
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\bin\Debug\netcoreapp2.0\LoopsProblems.dll
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\bin\Debug\netcoreapp2.0\LoopsProblems.pdb
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.csprojAssemblyReference.cache
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.csproj.CoreCompileInputs.cache
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.AssemblyInfoInputs.cache
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.AssemblyInfo.cs
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.dll
+C:\Users\vijay\C# Development\LoopsProblems\LoopsProblems\obj\Debug\netcoreapp2.0\LoopsProblems.pdb
